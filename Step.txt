@@ -1,0 +1,8 @@
+Download and install node JS
+Download Mango DB
+install vs code
+add Hostel management to workspace
+open terminal in vscode
+npm install
+npm run start
+npm run server
