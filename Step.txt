@@ -1,6 +1,7 @@
 Download and install node JS
 Download Mango DB
 install vs code
+unzip hostel management file
 add Hostel management to workspace
 open terminal in vscode
 npm install
